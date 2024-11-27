@@ -1,5 +1,5 @@
 animeenv/
 animedata/
-animepy/anime/__pycache__/
+animepy/myanime/__pycache__/
 animepy/db.sqlite3
 
